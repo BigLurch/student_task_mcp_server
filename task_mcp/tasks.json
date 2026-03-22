@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Skriva rapport",
+    "description": "MLOps uppgift",
+    "priority": "high",
+    "status": "done"
+  },
+  {
+    "id": 2,
+    "title": "Läsa MCP",
+    "description": "Plugga inför inlåmning",
+    "priority": "medium",
+    "status": "open"
+  }
+]

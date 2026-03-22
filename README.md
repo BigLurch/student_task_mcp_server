@@ -109,5 +109,3 @@ Uppgifter lagras i `tasks.json` med följande struktur:
 ## Syfte
 
 Syftet med projektet är att demonstrera hur en MCP-server kan användas för att exponera funktionalitet till en AI-agent, samt hur lokal datalagring kan kombineras med verktygsbaserad interaktion.
-
-# student_task_mcp_server
